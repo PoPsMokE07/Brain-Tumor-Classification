@@ -9,7 +9,7 @@ from tensorflow.keras.metrics import Precision, Recall
 from tensorflow.keras.preprocessing import image
 import numpy as np
 import plotly.graph_objects as go
-
+import cv2
 import google.generativeai as genai
 import PIL.Image
 import gc
